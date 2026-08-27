@@ -1,0 +1,14 @@
+# 采集 / 分析 / 报告产物 —— 都能重新跑出来，不进仓库
+out/
+*.teardown.json
+teardown*.json
+analyze*.json
+an*.json
+td*.json
+teardown*.html
+report*.html
+
+node_modules/
+
+# macOS
+.DS_Store
